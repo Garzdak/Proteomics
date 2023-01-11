@@ -6,3 +6,5 @@ Follow Programs 01-04. Description is included in each program.
 Table "Sample data.xlsx" in "Data" folder should be provided by the user.
 
 Tables "Data/Calib.xlsx" and "all Tables/contaminants.xlsx" are tables with known data from the literature and are default. All the other tables are generated in the programs and are given for the reference (can be deleted).
+
+Calculate Venn is used to additional calculations and analysis and is not required to run programs 01-04.
